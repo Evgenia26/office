@@ -1,0 +1,31 @@
+body {
+    background-image: url("pic/desk.jpg");  /*подключение фона страницы*/
+}
+h3 {
+	color: black;
+}
+
+.list {
+	color: #00FFFF;
+}
+.plist {
+	color: #40E0D0;
+}
+.big {
+	font-size: 2em;    /*размер шрифта*/
+}
+.big1 {
+	font-size: 1.5em;     /*размер шрифта*/
+}
+.selector {							
+	border: 5px solid #8B008B;		/*рамка сплошная*/
+	margin: 5px;					/*отступ между блоками(картинками)*/
+}
+.selector2 {
+	border: 5px solid #CD5C5C;		/*рамка сплошная*/
+	margin: 5px;					/*отступ между блоками(картинками)*/
+}
+.selector3 {
+	border: 5px dotted #EEE8AA;     /*рамка точечная*/
+	margin: 5px;
+}
